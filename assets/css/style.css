@@ -7,6 +7,11 @@ body
     -o-background-size: cover;
 	background-size: cover;
 }
+h1
+{
+	/*float: left;*/
+	margin-left: 20px;
+}
 p
 {
 	color: #ff9900;
